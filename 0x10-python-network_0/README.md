@@ -1,1 +1,2 @@
-# 0x10. Python - Network #0
+Python Network
+Learning how to curl from remote
